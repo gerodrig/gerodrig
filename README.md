@@ -2,7 +2,7 @@
 
 My name is Gerardo a software developer with a passion for Nextjs, I am constantly exploring new technologies and enhancing my skills. I have experience in front-end development, including React, Angular, NextJS, TypeScript, NodeJS, GraphQL, CSS, and Tailwind. On the back-end, I am proficient in Java, C++, PostgreSQL, MongoDB, MySQL, TypeORM, and Docker. I am currently learning Vue and always seeking new opportunities to collaborate with like-minded individuals and companies on exciting projects. If you have any questions about my experience or skills, feel free to ask me anything. 
 
-⚡ Fun fact:  In my free time, I love spending time with my adorable chinchilla. 
+⚡ Fun fact:  In my free time, I love spending time with my adorable chinchilla 🐭. 
 
 😄 Pronouns:He/Him
 
