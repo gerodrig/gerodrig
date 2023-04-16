@@ -1,4 +1,4 @@
-Hi 👋 My name is Gerardo
+Hi 👋 My Name is Gerardo
 ========================
 
 Software Developer
