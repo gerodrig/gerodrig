@@ -9,7 +9,7 @@ I am a software developer with a passion for Nextjs, I am constantly exploring n
 * 🌍  I'm based in Calgary, AB
 * 🖥️  See my portfolio at [My Portfolio](http://www.gerar.ca)
 * 🚀  I'm currently working on [Non for Profit website](http://memorylanehomeliving.ca)
-* 🧠  I'm learning Vue
+* 🧠  I'm learning **Astro**
 * 🤝  I'm open to collaborating on Any project that involves AI
 * ⚡  In my free time, I love spending time with my adorable chinchilla 🐭.
 
@@ -37,6 +37,7 @@ I am a software developer with a passion for Nextjs, I am constantly exploring n
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="36" height="36"/> </a> 
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
 <a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
+<a href="https://astro.build/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/astro-colored.svg" width="36" height="36" alt="Astro" /></a>
 
 <!-- CSS Frameworks -->
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
